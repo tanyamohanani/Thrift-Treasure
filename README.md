@@ -10,7 +10,7 @@ Thrift Treasure is an online thrift shopping platform that allows users to brows
   
 ## Features
 ### User Side:
-- User authentication (Login, Registration, Logout)
+- User authentication (Registration, Login, Logout)
 - Browse thrifted products
 - Add items to cart and checkout
 - View order history
