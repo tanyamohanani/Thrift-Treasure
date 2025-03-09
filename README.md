@@ -7,8 +7,7 @@ Thrift Treasure is an online thrift shopping platform that allows users to brows
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
-- **Other Tools:** Bootstrap (for UI), PHP Sessions (for user authentication)
-
+  
 ## Features
 ### User Side:
 - User authentication (Login, Registration, Logout)
